@@ -1,6 +1,6 @@
 # farmacia_modelagemMER_insercaoDados_Consultas_MySQL
  Modelagem (MER) , Inserção de Dados de Teste e Consultas em Múltiplas Tabelas de um cenário "Farmácia" a partir de MySQL (Workbench).
- 
+ ________________________________________________________________________________________________________________________________________________________________________
  Descrição do cenário modelado em questão:
  
 Uma farmácia comercializa vários tipos de produtos (remédios, cosméticos, etc.). Além do tipo, para cada produto são
